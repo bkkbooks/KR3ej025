@@ -1,0 +1,464 @@
+canonical_identifier: bkk:krp/KR3ej025/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej025/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 幼科切要
+  identifiers:
+    krp: KR3ej025
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej025.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej025_000-jc.yaml, hash: 'sha256:db95cef470eaae442081959eebfcc28c23fa0763e2370c84c6e67b75c6f95fe0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej025_000-jc.markers.yaml, hash: 'sha256:84007a0394e55f56fd2ab3026cf712914f099963fa45e7f0fdd23f2aa301002c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 336
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d3.h1s1
+    span:
+    - front
+    - 336
+    - 791
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 245
+  label: 小兒要略論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d5.h1s1
+    span:
+    - body
+    - 245
+    - 1181
+  label: 看小兒病狀歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d6.h1s1
+    span:
+    - body
+    - 1181
+    - 1280
+  label: 虎口三關
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d7.h1s1
+    span:
+    - body
+    - 1280
+    - 1678
+  label: 古人辨色
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d8.h1s1
+    span:
+    - body
+    - 1678
+    - 1892
+  label: 看危症法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d9.h1s1
+    span:
+    - body
+    - 1892
+    - 1971
+  label: 小兒正面
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d10.h1s1
+    span:
+    - body
+    - 1971
+    - 2199
+  label: 初生門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d11.h1s1
+    span:
+    - body
+    - 2199
+    - 2682
+  label: 臍風門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d12.h1s1
+    span:
+    - body
+    - 2682
+    - 3399
+  label: 驚風門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d13.h1s1
+    span:
+    - body
+    - 3399
+    - 3781
+  label: 胎熱門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d14.h1s1
+    span:
+    - body
+    - 3781
+    - 4283
+  label: 發熱門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d15.h1s1
+    span:
+    - body
+    - 4283
+    - 4462
+  label: 感冒門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d16.h1s1
+    span:
+    - body
+    - 4462
+    - 4766
+  label: 傷風門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d17.h1s1
+    span:
+    - body
+    - 4766
+    - 6409
+  label: 傷寒門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d18.h1s1
+    span:
+    - body
+    - 6409
+    - 7006
+  label: 傷暑門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d19.h1s1
+    span:
+    - body
+    - 7006
+    - 7299
+  label: 傷食門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d20.h1s1
+    span:
+    - body
+    - 7299
+    - 8299
+  label: 咳嗽門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d21.h1s1
+    span:
+    - body
+    - 8299
+    - 8523
+  label: 喘急門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d22.h1s1
+    span:
+    - body
+    - 8523
+    - 8698
+  label: 咳血門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d23.h1s1
+    span:
+    - body
+    - 8698
+    - 8826
+  label: 嘔吐門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d24.h1s1
+    span:
+    - body
+    - 8826
+    - 9342
+  label: 霍亂門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d25.h1s1
+    span:
+    - body
+    - 9342
+    - 9597
+  label: 吐瀉門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d26.h1s1
+    span:
+    - body
+    - 9597
+    - 10484
+  label: 泄瀉門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d27.h1s1
+    span:
+    - body
+    - 10484
+    - 10778
+  label: 痢疾門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d28.h1s1
+    span:
+    - body
+    - 10778
+    - 11266
+  label: 腹痛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d29.h1s1
+    span:
+    - body
+    - 11266
+    - 11971
+  label: 瘧疾門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d30.h1s1
+    span:
+    - body
+    - 11971
+    - 12923
+  label: 疳積門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d31.h1s1
+    span:
+    - body
+    - 12923
+    - 13336
+  label: 癇症門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d32.h1s1
+    span:
+    - body
+    - 13336
+    - 13789
+  label: 煩渴門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d33.h1s1
+    span:
+    - body
+    - 13789
+    - 13900
+  label: 腹脹門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d34.h1s1
+    span:
+    - body
+    - 13900
+    - 14294
+  label: 脾虛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d35.h1s1
+    span:
+    - body
+    - 14294
+    - 15275
+  label: 幼科預宜修制應用諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d36.h1s1
+    span:
+    - body
+    - 15275
+    - 16545
+  label: 頭部門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d37.h1s1
+    span:
+    - body
+    - 16545
+    - 16619
+  label: 心胃門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d38.h1s1
+    span:
+    - body
+    - 16619
+    - 17086
+  label: 腫症門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d39.h1s1
+    span:
+    - body
+    - 17086
+    - 17292
+  label: 膀胱門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d40.h1s1
+    span:
+    - body
+    - 17292
+    - 17412
+  label: 小便門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d41.h1s1
+    span:
+    - body
+    - 17412
+    - 17692
+  label: 淋症門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d42.h1s1
+    span:
+    - body
+    - 17692
+    - 17842
+  label: 大便門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d43.h1s1
+    span:
+    - body
+    - 17842
+    - 18278
+  label: 脫肛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d44.h1s1
+    span:
+    - body
+    - 18278
+    - 18505
+  label: 足腫門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej025_jc_000-d45.h1s1
+    span:
+    - body
+    - 18505
+    - 18935
+  label: 救急門
+  type: section
+  level: 1
+hash: sha256:ffed466822956ff225c7ea088c017faa7cd8b968972175584b00f765c101e244
