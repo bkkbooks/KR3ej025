@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej025_000.yaml, hash: 'sha256:1ea383323dda5ebf4edf1a0ff6e040af36e0bceba148215d376d8b0ca898c5d6'}
+  - {seq: 0, filename: KR3ej025_000.yaml, hash: 'sha256:db95cef470eaae442081959eebfcc28c23fa0763e2370c84c6e67b75c6f95fe0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej025_000.markers.yaml, hash: 'sha256:4540e87780818bbf9194c59db94b7902b112d695eb99f36455473f02ae36465c'}
+  - {seq: 0, role: markers, filename: assets/KR3ej025_000.markers.yaml, hash: 'sha256:944164c6acfabab4fe4c0ffaa04deb9e6d528dcc7c566e2e98916987b51a4cb2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -461,7 +461,4 @@ table_of_contents:
   label: 救急門
   type: section
   level: 1
-hash: sha256:b4f498db77644a129160f92099d56cfde9d6d944bf5dba8d05bc57349ec41482
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a9d85d9cf58a4a0cfb059f02c53b6750cdf29f18c62f4ef72a2e69414999d87
