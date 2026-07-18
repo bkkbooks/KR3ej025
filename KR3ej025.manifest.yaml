@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej025_000.yaml, hash: 'sha256:5098acef4e7fa38358da863b0d990ba01c45af82f2b33acfd7a2fa645f499e0d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej025_000.markers.yaml, hash: 'sha256:7128ee22ea55c3db309ce5ff6e46331e752b26cdaf364a7b4d377b5808b65750'}
+  - {seq: 0, role: markers, filename: assets/KR3ej025_000.markers.yaml, hash: 'sha256:c66aaf2c68d45d48391e6422214f3f80b351d2e84e288ab4e8b4364400239876'}
 table_of_contents:
 - ref:
     seq: 0
@@ -461,7 +461,7 @@ table_of_contents:
   label: 救急門
   type: section
   level: 1
-hash: sha256:b9bf850418b96a3e075ae281b5d6a5b35ce895375030f71fc6362e27924535ad
+hash: sha256:26a42c447a3749392535e5cec903b9eee910813662bca6fcd0d69edf1e1c6de8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
